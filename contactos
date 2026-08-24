@@ -1,0 +1,386 @@
+ <!-- ==========================================
+             4. PROYECTOS
+        =========================================== -->
+
+        <section
+            id="proyectos"
+            class="section" >
+            <div class="section-heading">
+                <span class="section-number">
+                </span>
+                <h2>Proyectos</h2>
+            </div>
+            <p class="section-description">
+                Algunos proyectos y trabajos académicos
+                desarrollados durante mi formación.
+            </p>
+            <div class="projects-grid">
+                <!-- PROYECTO 1 -->
+
+                <article class="project-card">
+
+
+                    <img src="imagnes/proyecto1.png" alt="Proyecto de portafolio personal" class="project-image">
+
+
+                    <div class="project-content">
+
+                        <span class="project-number">
+                            Proyecto 01
+                        </span>
+
+
+                        <h3>
+                            Portafolio Personal
+                        </h3>
+
+
+                        <p>
+
+                            Desarrollo de un sitio web personal
+                            utilizando HTML y CSS para presentar
+                            mi información, habilidades, proyectos
+                            y medios de contacto.
+
+                        </p>
+
+
+                        <div class="tags">
+
+                            <span>
+                                HTML
+                            </span>
+
+                            <span>
+                                CSS
+                            </span>
+
+                            <span>
+                                GitHub
+                            </span>
+
+                        </div>
+
+
+                        <a
+                            href="https://github.com/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            class="project-link"
+                        >
+                            Ver proyecto →
+                        </a>
+
+                    </div>
+
+                </article>
+
+
+
+                <!-- PROYECTO 2 -->
+
+                <article class="project-card">
+
+
+                    <img src="imagnes/proyecto2.png" alt="Proyecto académico de programación" class="project-image">
+
+
+                    <div class="project-content">
+
+                        <span class="project-number">
+                            Proyecto 02
+                        </span>
+
+
+                        <h3>
+                            Proyecto Académico
+                        </h3>
+
+
+                        <p>
+
+                            Desarrollo de actividades académicas
+                            relacionadas con programación,
+                            tecnología y sistemas inteligentes.
+
+                        </p>
+
+
+                        <div class="tags">
+
+                            <span>
+                                Programación
+                            </span>
+
+                            <span>
+                                Tecnología
+                            </span>
+
+                            <span>
+                                Innovación
+                            </span>
+
+                        </div>
+
+
+                        <a
+                            href="#"
+                            class="project-link"
+                        >
+                            Proyecto académico →
+                        </a>
+
+                    </div>
+
+                </article>
+
+
+
+                <!-- PROYECTO 3 -->
+
+                <article class="project-card">
+
+
+                    <img src="imagnes/proyecto3.png" alt="Proyecto de análisis de datos" class="project-image">
+
+
+                    <div class="project-content">
+
+                        <span class="project-number">
+                            Proyecto 03
+                        </span>
+
+
+                        <h3>
+                            Análisis de Datos
+                        </h3>
+
+
+                        <p>
+
+                            Elaboración de trabajos académicos
+                            relacionados con el análisis e
+                            interpretación de información para
+                            apoyar la toma de decisiones.
+
+                        </p>
+
+
+                        <div class="tags">
+
+                            <span>
+                                Datos
+                            </span>
+
+                            <span>
+                                Análisis
+                            </span>
+
+                            <span>
+                                Información
+                            </span>
+
+                        </div>
+
+
+                        <a
+                            href="#"
+                            class="project-link"
+                        >
+                            Ver proyecto →
+                        </a>
+
+                    </div>
+
+                </article>
+
+            </div>
+
+        </section>
+
+
+
+        <!-- ==========================================
+             5. CONTACTO
+        =========================================== -->
+
+        <section
+            id="contacto"
+            class="section section-gray"
+        >
+
+            <div class="section-heading">
+
+                <span class="section-number">
+                </span>
+
+                <h2>Contacto </h2>
+
+            </div>
+            <div class="contact-content">
+                <!-- Información -->
+                <div class="contact-text">
+                    <h3>
+                        ¿Hablamos?
+                    </h3>
+                    <p>
+
+                        Si deseas conocer más sobre mis proyectos,
+                        habilidades o formación académica, puedes
+                        escribirme mediante este formulario.
+
+                    </p>
+
+                    <div class="contact-list">
+                        <div class="contact-item">
+                            <span class="contact-icon email-icon">
+                          ✉
+                            </span>
+                            <div>
+                                <small>Correo electrónico</small>
+                                <strong>meilyloza.79@gmail.com</strong>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+
+                            <span class="contact-icon location-icon">
+                             📍
+                            </span>
+                            <div>
+                                <small>Ubicación</small>
+                                <strong> Ecuador </strong>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+
+                <!-- FORMULARIO -->
+
+                <form
+                    class="contact-form"
+                    action="#"
+                    method="post"
+                >
+
+
+                    <div class="form-group">
+
+                        <label for="nombre">
+                            Nombre
+                        </label>
+
+
+                        <input
+                            type="text"
+                            id="nombre"
+                            name="nombre"
+                            placeholder="Escribe tu nombre"
+                            required
+                        >
+
+                    </div>
+
+
+
+                    <div class="form-group">
+
+                        <label for="correo">
+                            Correo electrónico
+                        </label>
+
+
+                        <input
+                            type="email"
+                            id="correo"
+                            name="correo"
+                            placeholder="ejemplo@correo.com"
+                            required
+                        >
+
+                    </div>
+
+
+
+                    <div class="form-group">
+
+                        <label for="mensaje">
+                            Mensaje
+                        </label>
+
+
+                        <textarea
+                            id="mensaje"
+                            name="mensaje"
+                            rows="5"
+                            placeholder="Escribe tu mensaje..."
+                            required
+                        ></textarea>
+
+                    </div>
+
+
+
+                    <button
+                        type="submit"
+                        class="btn btn-submit"
+                    >
+
+                        Enviar mensaje
+
+                        <span>
+                            →
+                        </span>
+
+                    </button>
+
+                </form>
+
+            </div>
+
+        </section>
+    <!-- ==========================================
+         PIE DE PÁGINA
+    =========================================== -->
+
+    <footer>
+
+        <p>
+
+            © 2026
+            <strong>
+                Meily Milena Barreiro Gonzalez
+            </strong>
+
+        </p>
+
+
+        <p>
+            Ingeniería en Sistemas Inteligentes
+        </p>
+
+
+        <!-- IMPORTANTE:
+             Reemplazar la URL por tu GitHub real -->
+
+        <a
+            href="https://github.com/mbarreiro-cpu/actividad-integradora"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="github-link"
+        >
+
+            Visitar mi perfil de GitHub →
+
+        </a>
+
+    </footer>
+
+    </main>
+    </body>
+</html>
