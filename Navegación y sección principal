@@ -1,1 +1,63 @@
+ <!-- ==========================================
+         CONTENIDO PRINCIPAL
+    =========================================== -->
 
+    <main>
+
+
+        <!-- ==========================================
+             1. INICIO
+        =========================================== -->
+
+        <section
+            id="inicio"
+            class="hero"
+        >
+
+            <div class="hero-content">
+
+                <p class="saludo">
+                    ¡Hola! Soy
+                </p>
+                <h1>
+                    Meily Milena
+                    <span>
+                        Barreiro Gonzalez
+                    </span>
+                </h1>
+                <h2>
+                    Ingeniería en Sistemas Inteligentes
+                </h2>
+                <p class="hero-description">
+                    Soy estudiante de Ingeniería en Sistemas
+                    Inteligentes, apasionada por la tecnología,
+                    la programación y la creación de soluciones
+                    innovadoras mediante sistemas inteligentes.
+                </p>
+                <a
+                    href="#proyectos"
+                    class="btn"
+                >
+                    Ver mis proyectos
+                    <span>
+                        →
+                    </span>
+
+                </a>
+
+            </div>
+
+            <!-- Tarjeta con fotografía -->
+            <article style="background-color: #c4b5fd;" class="hero-card">
+
+                <div class="avatar">
+                    <img src="imagnes/foto.png" alt="Foto de Meily Milena Barreiro Gonzalez">
+                </div>
+                <h3>
+                    Ingeniería en Sistemas Inteligentes
+                </h3>
+                <p>
+                    Estudiante · Tecnología · Innovación
+                </p>
+            </article>
+        </section>
