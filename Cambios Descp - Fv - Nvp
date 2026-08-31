@@ -1,0 +1,42 @@
+Cambios detallados con código
+
+Descripción
+Código 1:
+
+<meta name="description" content="Portafolio personal de Meily Milena Barreiro Gonzalez, 
+estudiante de Ingeniería en Sistemas Inteligentes.">
+
+Código 2:
+
+<meta name="description"
+content="Portafolio personal de Meily Milena Barreiro Gonzalez">
+
+Mejora/cambio: Se simplifica la descripción de la página. El Código 1 contiene además la mención de que la persona es 
+estudiante de Ingeniería en Sistemas Inteligentes; el Código 2 usa una descripción más corta.
+
+Favicon
+
+Código 1:
+
+<link rel="icon" href="img/foto.png" type="image/png">
+
+Código 2:
+
+<link rel="icon"
+      href="imagenes/mb.png"
+      type="image/png">
+
+Mejora/cambio: Se cambia tanto la carpeta como el archivo utilizado para el favicon: de img/foto.png a imagenes/mb.png.
+
+Navegación principal
+
+Código 1:
+
+<nav class="navbar container" aria-label="Navegación principal">
+
+Código 2:
+
+<nav class="navbar container">
+
+Mejora/cambio: El Código 1 elimina el atributo aria-label del elemento nav. Esto es un cambio estructural de accesibilidad, 
+no necesariamente una mejora: el atributo del Código 2 identifica explícitamente la navegación principal.
