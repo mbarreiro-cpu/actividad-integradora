@@ -1,0 +1,37 @@
+Organización del código
+
+Código 1:
+
+<!-- INICIO -->
+<section class="hero section" aria-labelledby="titulo-principal">
+
+Código 2:
+
+<!-- =================================================
+     SECCIÓN INICIO
+     ================================================= -->
+<section class="hero section">
+
+Mejora/cambio: El Código 2 utiliza comentarios separadores más detallados para identificar las secciones. 
+Esto mejora la legibilidad y facilita el mantenimiento del código.
+
+Presentación inicial
+
+Código 1:
+
+<p>
+    Soy estudiante interesada en la tecnología, la programación
+    y el análisis de datos. Me gusta aprender nuevas herramientas
+    y desarrollar soluciones digitales creativas y funcionales.
+</p>
+
+Código 2:
+
+<p class="hero-description">
+    Soy estudiante de Ingeniería en Sistemas
+    Inteligentes interesada en la tecnología,
+    programación, desarrollo web y análisis
+    de datos.
+</p>
+
+Mejora/cambio: Se cambia el texto de presentación y se agrega la clase hero-description, lo que permite aplicar estilos específicos a este párrafo.
