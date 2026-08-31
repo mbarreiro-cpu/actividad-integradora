@@ -1,0 +1,44 @@
+Contador de visitas
+
+Código 1:
+
+<p class="welcome-message" id="welcomeMessage" aria-live="polite"></p>
+
+Código 2:
+
+<p class="welcome-message"
+   id="welcomeMessage"
+   aria-live="polite"></p>
+
+<p class="visit-counter"
+   id="visitCounter">
+</p>
+
+Mejora/cambio: El Código 2 incorpora un nuevo elemento con id visitCounter. Este elemento permite mostrar 
+información relacionada con las visitas cuando es gestionado mediante JavaScript.
+
+Contenido de “Sobre mí”
+
+Código 1:
+
+Soy Meily Milena Barreiro Gonzalez, estudiante de Ingeniería en Sistemas Inteligentes. Estoy construyendo 
+mis conocimientos en desarrollo web, programación y herramientas tecnológicas.
+
+Código 2:
+
+Soy Meily Milena Barreiro Gonzalez, estudiante de Ingeniería en Sistemas Inteligentes. Actualmente desarrollo 
+mis conocimientos en tecnología, programación y desarrollo web.
+
+Mejora/cambio: Se actualiza la redacción para indicar que actualmente se están desarrollando conocimientos en tecnología, programación y desarrollo web.
+
+Intereses
+
+Código 1:
+
+Me interesan el desarrollo de aplicaciones, la innovación, el diseño web, el análisis de datos y el aprendizaje de nuevas tecnologías.
+
+Código 2:
+
+Me interesan el desarrollo de aplicaciones, la programación, el diseño web, el análisis de datos y el aprendizaje de nuevas tecnologías.
+
+Mejora/cambio: Se reemplaza “la innovación” por “la programación”, haciendo que el texto se enfoque más directamente en las habilidades técnicas.
