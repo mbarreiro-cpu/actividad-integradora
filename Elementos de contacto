@@ -1,0 +1,15 @@
+ Elemento de contacto
+
+Código 1:
+
+<span>📍</span>
+<strong>Área</strong>
+<p>Ingeniería en Sistemas Inteligentes</p>
+
+Código 2:
+
+<span>🎓</span>
+<strong>Carrera</strong>
+<p>Ingeniería en Sistemas Inteligentes</p>
+
+Mejora/cambio: Se cambia el ícono de ubicación por uno académico y el título del dato de “Área” a “Carrera”, haciendo más clara la información académica.
